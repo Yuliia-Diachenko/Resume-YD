@@ -1,7 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #e5e5e5;
-  padding: 40px 40px 40px 40px;
+
 }
 
 /* main-content */
@@ -130,28 +130,18 @@ color: #595959;
   padding: 0 0 0 12px;
   margin: 0;
 }
-
-
-
-
 /*sidebar*/
 
 .sidebar {
   width: 370px;
   background: #f8d2ff;
 }
-
-.my-photo {
-  margin-top: 40px;
-  
-}
-
 .contacts {
-  margin: 48px 0 0 48px;
+  margin: 0 0 0 48px;
 }
 .tech-skils,
 .soft-skills {
-  margin: 48px 0 0 48px;
+  margin: 0 0 0 48px;
 }
 .sidebar-title {
   font-style: normal;
