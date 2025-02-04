@@ -21,6 +21,8 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/yuliia-diachenko-021933184)
+  
+[![Yuliia profile views](https://u8views.com/api/v1/github/profiles/123005661/views/day-week-month-total-count.svg)](https://u8views.com/github/Yuliia-Diachenko)
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
